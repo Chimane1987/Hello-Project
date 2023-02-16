@@ -74,7 +74,7 @@
 
 
 
-- [Live Demo Link](https://github.com/Chimane1987/Hello-Project)
+ NOT AVAILABLE AT THE MOMENT
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,8 +150,9 @@ GitHub
 
 - GitHub: [https://github.com/Chimane1987]
 
+- Twitter: [https://twitter.com/Cheeks22670006]
 
-
+- Linkedin: [https://www.linkedin.com/in/elias-molefe-2a83aa18a/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
